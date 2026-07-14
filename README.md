@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KESAVAN2112/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KESAVAN2112/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KESAVAN2112/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
