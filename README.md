@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KESAVAN2112/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0504-base-7](https://github.com/KESAVAN2112/Leetcode/tree/master/0504-base-7) |
 ## String
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KESAVAN2112/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0504-base-7](https://github.com/KESAVAN2112/Leetcode/tree/master/0504-base-7) |
 ## Bit Manipulation
 |  |
 | ------- |
