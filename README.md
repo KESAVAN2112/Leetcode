@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KESAVAN2112/Leetcode/tree/master/0001-two-sum) |
+| [0454-4sum-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0454-4sum-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KESAVAN2112/Leetcode/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/KESAVAN2112/Leetcode/tree/master/0290-word-pattern) |
+| [0454-4sum-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0454-4sum-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
