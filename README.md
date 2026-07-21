@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KESAVAN2112/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/KESAVAN2112/Leetcode/tree/master/0504-base-7) |
 | [1154-day-of-the-year](https://github.com/KESAVAN2112/Leetcode/tree/master/1154-day-of-the-year) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/KESAVAN2112/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
