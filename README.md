@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KESAVAN2112/Leetcode/tree/master/0001-two-sum) |
 | [0454-4sum-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0454-4sum-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/KESAVAN2112/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -67,8 +69,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/KESAVAN2112/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Enumeration
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
