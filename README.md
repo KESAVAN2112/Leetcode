@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0454-4sum-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KESAVAN2112/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/KESAVAN2112/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KESAVAN2112/Leetcode/tree/master/0036-valid-sudoku) |
 | [0290-word-pattern](https://github.com/KESAVAN2112/Leetcode/tree/master/0290-word-pattern) |
 | [0454-4sum-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0454-4sum-ii) |
+| [1122-relative-sort-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1122-relative-sort-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/KESAVAN2112/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/KESAVAN2112/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Enumeration
 |  |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/KESAVAN2112/Leetcode/tree/master/0036-valid-sudoku) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
