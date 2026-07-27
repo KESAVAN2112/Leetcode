@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/KESAVAN2112/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/KESAVAN2112/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
 | ------- |
