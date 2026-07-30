@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KESAVAN2112/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1154-day-of-the-year](https://github.com/KESAVAN2112/Leetcode/tree/master/1154-day-of-the-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KESAVAN2112/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/KESAVAN2112/Leetcode/tree/master/0504-base-7) |
 | [1154-day-of-the-year](https://github.com/KESAVAN2112/Leetcode/tree/master/1154-day-of-the-year) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1122-relative-sort-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1122-relative-sort-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
