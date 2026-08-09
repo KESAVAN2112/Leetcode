@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/KESAVAN2112/Leetcode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KESAVAN2112/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KESAVAN2112/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/KESAVAN2112/Leetcode/tree/master/1154-day-of-the-year) |
 | [1406-stone-game-iii](https://github.com/KESAVAN2112/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/KESAVAN2112/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/KESAVAN2112/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1122-relative-sort-array) |
+| [1140-stone-game-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/1140-stone-game-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/KESAVAN2112/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/KESAVAN2112/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KESAVAN2112/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/KESAVAN2112/Leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KESAVAN2112/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/KESAVAN2112/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KESAVAN2112/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/KESAVAN2112/Leetcode/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -177,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
