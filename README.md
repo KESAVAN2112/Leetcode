@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/KESAVAN2112/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2347-best-poker-hand](https://github.com/KESAVAN2112/Leetcode/tree/master/2347-best-poker-hand) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KESAVAN2112/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/KESAVAN2112/Leetcode/tree/master/0290-word-pattern) |
 | [0454-4sum-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0454-4sum-ii) |
 | [1122-relative-sort-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1122-relative-sort-array) |
+| [2347-best-poker-hand](https://github.com/KESAVAN2112/Leetcode/tree/master/2347-best-poker-hand) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KESAVAN2112/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0229-majority-element-ii) |
+| [2347-best-poker-hand](https://github.com/KESAVAN2112/Leetcode/tree/master/2347-best-poker-hand) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
