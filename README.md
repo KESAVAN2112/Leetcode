@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KESAVAN2112/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/KESAVAN2112/Leetcode/tree/master/0036-valid-sudoku) |
+| [0229-majority-element-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0229-majority-element-ii) |
 | [0454-4sum-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/KESAVAN2112/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KESAVAN2112/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KESAVAN2112/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/KESAVAN2112/Leetcode/tree/master/0036-valid-sudoku) |
+| [0229-majority-element-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/KESAVAN2112/Leetcode/tree/master/0290-word-pattern) |
 | [0454-4sum-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0454-4sum-ii) |
 | [1122-relative-sort-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1122-relative-sort-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0229-majority-element-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KESAVAN2112/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/KESAVAN2112/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/KESAVAN2112/Leetcode/tree/master/1122-relative-sort-array) |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
