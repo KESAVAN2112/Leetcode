@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KESAVAN2112/Leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/KESAVAN2112/Leetcode/tree/master/0053-maximum-subarray) |
 | [0229-majority-element-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/KESAVAN2112/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0454-4sum-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/KESAVAN2112/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KESAVAN2112/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/KESAVAN2112/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/KESAVAN2112/Leetcode/tree/master/0441-arranging-coins) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KESAVAN2112/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KESAVAN2112/Leetcode/tree/master/0053-maximum-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/KESAVAN2112/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/KESAVAN2112/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KESAVAN2112/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/1140-stone-game-ii) |
@@ -252,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KESAVAN2112/Leetcode/tree/master/0053-maximum-subarray) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/KESAVAN2112/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
