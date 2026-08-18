@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KESAVAN2112/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/KESAVAN2112/Leetcode/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/KESAVAN2112/Leetcode/tree/master/0053-maximum-subarray) |
 | [0229-majority-element-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0229-majority-element-ii) |
 | [0454-4sum-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/KESAVAN2112/Leetcode/tree/master/0486-predict-the-winner) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KESAVAN2112/Leetcode/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/KESAVAN2112/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KESAVAN2112/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/1140-stone-game-ii) |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KESAVAN2112/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
