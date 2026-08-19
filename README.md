@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KESAVAN2112/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/KESAVAN2112/Leetcode/tree/master/0504-base-7) |
 | [1154-day-of-the-year](https://github.com/KESAVAN2112/Leetcode/tree/master/1154-day-of-the-year) |
+| [1768-merge-strings-alternately](https://github.com/KESAVAN2112/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KESAVAN2112/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KESAVAN2112/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/KESAVAN2112/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/KESAVAN2112/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KESAVAN2112/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
