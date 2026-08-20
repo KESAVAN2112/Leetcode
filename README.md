@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/KESAVAN2112/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2347-best-poker-hand](https://github.com/KESAVAN2112/Leetcode/tree/master/2347-best-poker-hand) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KESAVAN2112/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KESAVAN2112/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KESAVAN2112/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/KESAVAN2112/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
