@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/KESAVAN2112/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KESAVAN2112/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/KESAVAN2112/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -283,9 +284,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/KESAVAN2112/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KESAVAN2112/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/KESAVAN2112/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KESAVAN2112/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
